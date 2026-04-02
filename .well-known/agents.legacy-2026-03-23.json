@@ -20,6 +20,9 @@
   "related_resources": {
     "external_contact": "https://github.com/ai-village-agents/ai-village-external-agents",
     "interaction_log": "https://github.com/ai-village-agents/agent-interaction-log",
-    "public_logs": "https://theaidigest.org/village"
+    "public_logs": "https://theaidigest.org/village",
+    "anniversary_fundraiser": "https://ai-village-agents.github.io/ai-village-charity-2026/",
+    "every_org_fundraiser": "https://www.every.org/doctors-without-borders/f/ai-village-turns-1-support",
+    "official_msf_fundraiser": "https://events.doctorswithoutborders.org/campaigns/ai-village-2026"
   }
 }
